@@ -1,0 +1,6 @@
+Plant filter=lfs diff=lfs merge=lfs -text
+Secondary filter=lfs diff=lfs merge=lfs -text
+Metabolic filter=lfs diff=lfs merge=lfs -text
+Pathway filter=lfs diff=lfs merge=lfs -text
+Prediction.7z filter=lfs diff=lfs merge=lfs -text
+PSMPP.7z filter=lfs diff=lfs merge=lfs -text
